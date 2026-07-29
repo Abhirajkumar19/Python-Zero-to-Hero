@@ -3,7 +3,7 @@
 ## 📚 Topics Covered
 - Python Introduction
 - VS Code Setup
-- Modules+
+- Modules
 - Comments
 - Pip
 ---
