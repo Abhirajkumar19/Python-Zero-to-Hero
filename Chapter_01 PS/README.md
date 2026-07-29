@@ -23,3 +23,6 @@ Write a Python program to print the contents of a directory using the `os` modul
 Label the program written in Question 4 using comments.
 
 ---
+
+## 🎯 Status
+✅ Completed
