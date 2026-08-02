@@ -1,12 +1,11 @@
-# 📘 Chapter 02 - VARIABLES and DATATYPES
+# Chapter 2: Variables and Data Types
 
 ## 📚 Topics Covered
-- Datatypes
-- Operators in Python
-- Type() Function and Typecasting
-- Input() Function
+- Defining Variables
+- Data Types
+- Identifier Rules
+- Operators
+- type() Function
+- Type Casting
+- input() Function
 
-
----
-## 🎯 Status
-✅ Chapter 1 Completed
