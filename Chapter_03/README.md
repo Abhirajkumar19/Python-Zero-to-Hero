@@ -1,14 +1,10 @@
-# 📘 Chapter 03 - Strings
+# Chapter 3: Strings
 
 ## 📚 Topics Covered
-- Strings
 - String Slicing
-- Slicing With Skip Value
-- String Function
+- Slicing with Skip Values
+- String Functions
 - Escape Sequence Characters
 
 
----
-## 🎯 Status
-✅ Chapter 1 Completed
 
