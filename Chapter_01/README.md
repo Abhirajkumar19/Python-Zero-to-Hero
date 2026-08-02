@@ -1,12 +1,9 @@
-# 📘 Chapter 01 - Modules, Comments & pip
+# Chapter 1: Modules, Comments & pip
 
 ## 📚 Topics Covered
-- Python Introduction
-- VS Code Setup
-- Modules
-- Comments
-- Pip
----
+- Writing the First Python Program
+- Understanding Modules
+- Using pip for Package Management
+- Using Python as a Calculator
+- Comments in Python
 
-## 🎯 Status
-✅ Completed
