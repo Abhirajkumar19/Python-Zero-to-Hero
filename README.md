@@ -153,7 +153,7 @@ Python-Zero-to-Hero/
 - ✅ Chapter 04 Completed
 - ✅ Chapter 05 Completed
 - ✅ Chapter 06 Completed
-- 🔄 Chapter 07 In Progress
+- ✅ Chapter 07 Completed
 - 🔄 Chapter 08 In Progress
 - 🔄 Chapter 09 In Progress
 - 🔄 Chapter 10 In Progress
