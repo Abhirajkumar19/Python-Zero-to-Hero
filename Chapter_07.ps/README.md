@@ -32,3 +32,25 @@ Write a program to print the following star pattern.
 ***
 *****
 ```
+
+### 8.
+Write a program to print the following star pattern
+
+```python
+*
+**
+***
+```
+For n = 3.
+
+### 9.
+Write a program to print the following star pattern.
+
+```python
+* * *
+*   *
+* * *
+```
+
+### 10.
+Write a program to print the multiplication table of n using for loop in reversed order.
