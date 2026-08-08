@@ -11,6 +11,7 @@ Write a program to greet all the person names stored in a list `l1` and which st
 ```python
 l1 = ["Harry", "Sohan", "Sachin", "Rahul"]
 
+
 ### 3.
 Attempt problem 1 using while loop.
 
