@@ -17,3 +17,5 @@
 *
 ```
 6. Write a Python function which converts inches to centimeters.
+7. Write a Python function to remove a given word from a list and strip it at the same time.
+8. Write a Python function to print the multiplication table of a given number.
