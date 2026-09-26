@@ -15,4 +15,5 @@
 ***
 **
 *
+```
 6. Write a Python function which converts inches to centimeters.
