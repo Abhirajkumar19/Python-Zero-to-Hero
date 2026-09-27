@@ -121,6 +121,8 @@ Python-Zero-to-Hero/
 ├── Chapter_08/
 ├── Chapter_08_PS/
 │
+├── Project_01/
+│
 ├── Chapter_09/
 ├── Chapter_09_PS/
 │
@@ -155,6 +157,7 @@ Python-Zero-to-Hero/
 - ✅ Chapter 06 Completed
 - ✅ Chapter 07 Completed
 - ✅ Chapter 08 Completed
+- ✅ Project 01 Completed
 - 🔄 Chapter 09 In Progress
 - 🔄 Chapter 10 In Progress
 - 🔄 Chapter 11 In Progress
