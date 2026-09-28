@@ -84,22 +84,6 @@ The course is divided into several chapters, each focusing on different aspects 
   - An AI-based bot designed to automatically reply to messages, enhancing communication efficiency.
 
 
-## 🚀 Learning Goals
-
-- Python Fundamentals
-- Object-Oriented Programming
-- File Handling
-- Exception Handling
-- Advanced Python
-- Flask
-- Django
-- FastAPI
-- APIs
-- Automation
-- Web Scraping
-- Data Analysis
-- Machine Learning
-- AI Development
 
 ---
 
